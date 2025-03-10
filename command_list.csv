@@ -1,0 +1,211 @@
+    1  git
+    2     pbcopy < ~/.ssh/id_rsa.pub
+    3  ```bash
+    4   pbcopy < ~/.ssh/id_rsa.pub
+    5  clear
+    6  '''bash pbcopy < ~/.ssh/id_rsa.pub
+    7  bash
+    8  ssh -T git@github.com
+    9  bash
+   10     ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+   11  git --version
+   12  ssh-keygen -t rsa -b 4096 -C "neslihandinc52@gmail.com"
+   13   ```bash
+   14     pbcopy < ~/.ssh/id_rsa.pub
+   15   ```bash
+   16  ```bash
+   17   pbcopy < ~/.ssh/id_rsa.pub
+   18  >  ```bash
+   19  ```bash pbcopy < ~/.ssh/id_rsa.pub
+   20  ```bash pbcopy < ~/.ssh/id_rsa.pub
+   21  bash cat ~/.ssh/id_rsa.pub
+   22  bash
+   23  bash ssh -T git@github.com
+   24  ssh -T git@github.com
+   25  ls -al ~/.ssh
+   26  pbcopy < ~/.ssh/id_rsa.pub
+   27  pbcopy < ~/.ssh/id_rsa.pub
+   28  ssh -T git@github.com
+   29  whoami
+   30  help
+   31  help cd
+   32  clear
+   33  pwd
+   34  cd masaüstü
+   35  cd desktop
+   36  pwd
+   37  ls
+   38  cd SQL
+   39  pwd
+   40  touch goit.txt
+   41  pwd
+   42  ls
+   43  mkdir Dersler
+   44  ls
+   45  rm goit.txt
+   46  rmdir Dersler
+   47  clear
+   48  cd SQL
+   49  pwd
+   50  git init
+   51  git init
+   52  git add .
+   53  git commit -m "ilk versiyon"
+   54  git push
+   55  git remote add origin https://github.com/neslihandinc/Goit.git
+   56  git push -u origin main
+   57  git push -u origin master
+   58  git push -u origin master
+   59  git push -u origin main
+   60  git push -u origin master
+   61  git push -u origin master
+   62  git push -u origin master
+   63  git push -u origin master
+   64  git push -u origin master
+   65  clear
+   66  git push -u origin master
+   67  git push -u origin master
+   68  git remote add origin https://github.com/neslihandinc/Goit.git
+   69  clear
+   70  git push -u origin master
+   71  cleae
+   72  clear
+   73  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clear
+   74  clear
+   75  git push -u origin master
+   76  git remote -v
+   77  git push -u origin master
+   78  git config --gloabal user.name neslihandinc
+   79  git config -- gloabal user.email neslihandinc52@gmail.com
+   80  git config --gloabal user.email neslihandinc52@gmail.com
+   81  git remote add origin https://github.com/neslihandinc/Goit.git
+   82  git push -u origin master
+   83  cleaar
+   84  clear
+   85  git push -u origin master
+   86  git config --global username neslihandinc
+   87  git config --global username "neslihandinc"
+   88  clear
+   89  git push -u origin master
+   90  git remote -v
+   91  git push -u origin master
+   92  git push -u origin master
+   93  clear
+   94  git push -u origin master
+   95  git push -u origin master
+   96  git branch
+   97  git branch neslihan
+   98  git branch
+   99  git checkout neslihan
+  100  git branch
+  101  git checkout master
+  102  git branch
+  103  git add .
+  104  git commit -m "Master ilk commit"
+  105  git checkout neslihan
+  106  git add .
+  107  git commit -m "v1"
+  108  git checkout master
+  109  git merge neslihan
+  110  git add .
+  111  git commit -m "v2"
+  112  git push
+  113  git checkout neslihan
+  114  git merge master
+  115  git add .
+  116  git commit -m "son hali"
+  117  clear
+  118  git branch
+  119  git push
+  120  git push
+  121   git push --set-upstream origin neslihan
+  122  git branch
+  123  git add .
+  124  git commit -m "Son versiyon"
+  125  git push
+  126  git merge master
+  127  git checkout master
+  128  git checkout neslihan
+  129  git checkout master
+  130  git checkout neslihan
+  131  git add .
+  132  git commit -m "Son"
+  133  git merge master
+  134  git add .
+  135  git commit -m "Son değişikler"
+  136  git push
+  137  clear
+  138  git clone https://github.com/mokumus7/Goit.git
+  139  git clone https://github.com/mokumus7/Goit.git
+  140  git clone https://github.com/mokumus7/Goit.git
+  141  git clone git@github.com:mokumus7/Goit.git
+  142  cd Goit
+  143  cd Goit-master
+  144  cd Goit
+  145  clear
+  146  pwd
+  147  cd desktop
+  148  pwd
+  149  cd Goit
+  150  cd SQL
+  151  cd ~/Desktop
+  152  pwd
+  153  cd Goit
+  154  pwd
+  155  git branch
+  156  clear
+  157  pwd
+  158  fatal: Not a git repository (or any of the parent directories): .git
+  159  clear
+  160  cd ~/Desktop
+  161  cd SQL
+  162  cd ~/Desktop
+  163  clone https://github.com/mokumus7/Goit.git
+  164  git clone https://github.com/mokumus7/Goit.git
+  165  git clone https://github.com/mokumus7/Goit.git
+  166  pwd
+  167  cd ~/Desktop
+  168  git clone https://github.com/neslihandinc/HW_10.git
+  169  clear
+  170  pwd
+  171  git clone https://github.com/neslihandinc/HW_10.git
+  172  pwd
+  173  cd HW_10
+  174  pwd
+  175  touch text_ignore.txt
+  176  pwd
+  177  git status
+  178  git add .
+  179  git commit -m "Neslihan ödev"
+  180  pwd
+  181  touch main_test.xt
+  182  git add
+  183  git add .
+  184  git commit -m "ödev versiyon2"
+  185  git branch Neslihan
+  186  git branch
+  187  git chechkout Neslihan
+  188  git branch
+  189  git checkout neslihan
+  190  git branch
+  191  git branch Neslihan
+  192  git checkout main
+  193  git branch
+  194  git checkout Neslihan
+  195  git branch
+  196  touch develop_test.txt
+  197  git add .
+  198  git commit -m "ödev versiyon3"
+  199  git branch
+  200  git add .
+  201  git commit -m "değişiklik 1"
+  202  git push
+  203      git push --set-upstream origin Neslihan
+  204  git push --set-upstream origin Neslihan
+  205  git checkout main
+  206  git branch
+  207  git merge Neslihan
+  208  git add .
+  209  git commit -m "Son versiyon"
+  210  git push
+  211  history > command_list.csv
